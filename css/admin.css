@@ -58,6 +58,14 @@
 	margin-bottom:5px;
 }
 
+.layui-form-select .layui-input{
+	padding-right: 0
+}
+
+.content-search  .layui-btn{
+	margin-bottom:0;
+}
+
 /*横向滚动*/
 .roll-x{
 	width: 100%; 
